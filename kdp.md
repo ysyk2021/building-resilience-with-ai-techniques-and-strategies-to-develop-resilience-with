@@ -15,25 +15,23 @@ Overall, this book aims to provide a comprehensive overview of the role of AI in
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
-
-1. Resilience-building with AI
-2. Artificial intelligence for resilience
-3. Stress monitoring with AI
-4. Mood tracking with AI
-5. Personalized healthcare with AI
-6. Predictive maintenance with AI
-7. Emergency response planning with AI
-8. Real-time supply chain monitoring with AI
-9. Cybersecurity threat detection with AI
-10. AI and mental health
-11. Building resilience in the face of disruption with AI
-12. Innovative strategies for resilience with AI
-13. Developing resilience with machine learning
-14. AI and disaster response
-15. AI and infrastructure resilience
-16. Strategies for future-proofing with AI
-17. Leveraging AI for organizational resilience
-18. AI and climate resilience
-19. Resilience training with AI
-20. The role of AI in building community resilience
-
+1. AI-powered resilience
+2. Resilience-building techniques
+3. Artificial intelligence for resilience
+4. Enhancing resilience with AI
+5. Developing resilience through technology
+6. AI strategies for building resilience
+7. Harnessing AI for resilience
+8. Building resilience in the digital age
+9. Empowering resilience with artificial intelligence
+10. Resilience and AI integration
+11. AI-driven resilience solutions
+12. Leveraging AI for developing resilience
+13. Resilience in the era of AI
+14. AI applications for resilience development
+15. Using AI to strengthen resilience
+16. Technological approaches to resilience-building
+17. AI innovations for resilience enhancement
+18. Resilience and the power of AI
+19. AI as a tool for fostering resilience
+20. Strategies for combining AI and resilience
