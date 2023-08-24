@@ -1,5 +1,3 @@
-Addressing Concerns about Privacy and Security when Using AI in Resilience-Building
-==================================================================================================================================================================================
 
 One of the most important ethical considerations when using artificial intelligence (AI) in resilience-building is ensuring privacy and security. In this chapter, we will address concerns about privacy and security when using AI in resilience-building and discuss best practices for protecting individuals' data.
 

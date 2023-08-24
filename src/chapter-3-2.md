@@ -1,5 +1,3 @@
-AI-Powered Virtual Coaches and Mentors for Motivation and Support
-===========================================================================================================================================
 
 In this chapter, we will explore how machine learning can be leveraged to provide personalized virtual coaches and mentors for motivation and support in resilience-building. Specifically, we will focus on AI-powered tools that can help individuals stay motivated, accountable, and supported in their resilience-building journey.
 

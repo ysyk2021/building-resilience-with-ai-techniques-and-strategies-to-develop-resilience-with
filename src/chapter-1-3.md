@@ -1,5 +1,3 @@
-What You Can Expect from This Book
-================================================
 
 In this book, we will explore the ways in which artificial intelligence (AI) can be used to build resilience and help individuals and communities better cope with adversity. We will discuss the basics of AI and its applications in resilience-building, as well as specific techniques and strategies that can be used to develop resilience using AI.
 

@@ -1,5 +1,3 @@
-Chapter 5: Utilizing AI-Powered Support Communities
-===================================================
 
 AI-powered support communities can play a significant role in building resilience and providing individuals with the resources they need to cope with challenges. This chapter will explore several ways that AI can be utilized to enhance support communities, including AI-powered online support groups, machine learning-powered social media filters, and AI-powered digital assistants.
 

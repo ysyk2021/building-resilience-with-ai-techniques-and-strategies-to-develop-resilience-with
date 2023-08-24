@@ -1,5 +1,3 @@
-Implementing machine learning-powered social media filters for reducing exposure to triggering content
-===========================================================================================================================================================
 
 Social media has become an integral part of our lives, providing us with a platform to connect with others and share information. However, social media can also expose individuals to triggering content that can worsen mental health issues. Machine learning-powered social media filters can help reduce exposure to triggering content by identifying and blocking posts that are likely to be harmful.
 

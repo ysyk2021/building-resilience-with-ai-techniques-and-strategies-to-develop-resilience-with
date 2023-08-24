@@ -1,5 +1,3 @@
-How AI can enhance resilience-building and promote mental wellness
-================================================================================
 
 Resilience is a fundamental human trait that enables us to adapt and bounce back from adversity. In today's fast-paced, ever-changing world, the need for resilience has never been greater. However, building resilience requires effort and practice, which can be challenging.
 

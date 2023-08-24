@@ -1,5 +1,3 @@
-Common Applications of AI in Resilience-Building, Including Stress Monitoring and Mood Tracking
-========================================================================================================================================================================
 
 In addition to the applications of AI in resilience-building discussed in the previous chapter, there are numerous other areas where AI is being increasingly utilized to enhance resilience. One such area is stress monitoring and mood tracking. In this chapter, we will explore some of the common applications of AI in resilience-building, with a focus on stress monitoring and mood tracking.
 

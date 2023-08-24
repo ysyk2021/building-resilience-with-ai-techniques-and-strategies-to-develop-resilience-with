@@ -1,5 +1,3 @@
-AI-powered online support groups and forums for peer support and accountability
-====================================================================================================================================
 
 Online support groups and forums can be a valuable resource for individuals struggling with mental health issues. AI-powered algorithms can enhance these support communities by providing personalized recommendations and facilitating peer support and accountability.
 
@@ -40,5 +38,4 @@ Conclusion
 ----------
 
 AI-powered online support groups and forums offer a promising way to enhance support communities and provide individuals with personalized recommendations, peer support, and accountability. By addressing potential challenges and ensuring quality control, these communities can be a valuable resource for individuals struggling with mental health issues.
-
 

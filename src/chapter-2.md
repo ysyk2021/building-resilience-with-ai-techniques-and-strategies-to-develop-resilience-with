@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and its Applications in Resilience-Building
-=======================================================================
 
 Artificial intelligence (AI) is a rapidly evolving technology that has the potential to transform many aspects of our lives, including resilience-building. In this chapter, we will explore what AI is, how it works, and some of its key applications in resilience-building.
 

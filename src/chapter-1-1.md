@@ -1,5 +1,3 @@
-The role of AI in developing resilience
-=====================================================
 
 Resilience is the ability to recover and adapt after facing adversity. It is a critical skill that helps us navigate life's challenges and cope with stress. However, building resilience requires effort, practice, and often support from others. This is where Artificial Intelligence (AI) can play a significant role.
 

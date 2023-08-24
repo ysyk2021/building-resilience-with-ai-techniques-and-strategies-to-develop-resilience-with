@@ -1,5 +1,3 @@
-What is AI and How Does it Work?
-=========================================================================================================
 
 Artificial intelligence (AI) has become an increasingly popular topic of discussion in recent years, with many experts hailing it as a transformative technology that has the potential to revolutionize many aspects of our lives. One area where AI is already showing great promise is in resilience-building. In this chapter, we will explore what AI is and how it works, as well as some of its key applications in resilience-building.
 

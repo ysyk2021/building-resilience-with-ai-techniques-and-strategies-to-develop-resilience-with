@@ -1,4 +1,3 @@
-# Introduction for Overview
 
 The world is becoming increasingly complex and unpredictable. Disruptions, both natural and man-made, are on the rise, and organizations and communities must be prepared to adapt and respond in order to survive and thrive. Building resilience is therefore more important than ever before.
 
