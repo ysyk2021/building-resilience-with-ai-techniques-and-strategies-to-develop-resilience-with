@@ -26,3 +26,4 @@
   - [Using AI-powered digital assistants for scheduling and medication reminders](chapter-6-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
