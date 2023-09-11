@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter on "What is AI and How Does It Work?" for the book "Building Resilience with AI Techniques and Strategies to Develop Resilience with Artificial Intelligence."
 
-Chapter 1: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will lay the foundation for understanding artificial intelligence (AI) and explore how it functions, providing essential knowledge to embark on a journey to build resilience with AI.
 

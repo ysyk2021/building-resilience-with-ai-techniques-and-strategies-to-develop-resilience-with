@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Integrating AI into Resilience-Building Programs while Maintaining Ethical Standards
-==================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential best practices for effectively integrating artificial intelligence (AI) into resilience-building programs while upholding rigorous ethical standards. The responsible use of AI is crucial to ensure that technology enhances rather than hinders our ability to build resilience in various domains.
 

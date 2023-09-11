@@ -1,5 +1,4 @@
-Chapter 7: Addressing Concerns about Privacy and Security when Using AI in Resilience-Building
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical considerations and strategies for addressing concerns about privacy and security when incorporating artificial intelligence (AI) into resilience-building efforts. Ensuring the protection of sensitive information and safeguarding against potential threats is paramount in AI-driven resilience programs.
 

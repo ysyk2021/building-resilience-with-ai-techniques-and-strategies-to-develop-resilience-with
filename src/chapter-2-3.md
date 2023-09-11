@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter on "Examples of Successful Implementation of AI in Building Resilience" for the book "Building Resilience with AI Techniques and Strategies to Develop Resilience with Artificial Intelligence."
 
-Chapter 4: Examples of Successful Implementation of AI in Building Resilience
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world examples of how artificial intelligence (AI) has been successfully implemented to enhance resilience in various domains.
 

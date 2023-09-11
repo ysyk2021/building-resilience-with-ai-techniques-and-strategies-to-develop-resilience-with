@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter on "Using AI-Powered Tools for Self-Awareness and Mindfulness" for the book "Building Resilience with AI Techniques and Strategies to Develop Resilience with Artificial Intelligence."
 
-Chapter 4: Using AI-Powered Tools for Self-Awareness and Mindfulness
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore how artificial intelligence (AI) can be harnessed to enhance self-awareness and mindfulness, offering valuable tools such as mood tracking and meditation assistance.
 

@@ -1,5 +1,4 @@
-Chapter 5: Common Applications of AI in Resilience-Building
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Stress Monitoring and Mood Tracking
 -----------------------------------

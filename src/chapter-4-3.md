@@ -1,7 +1,6 @@
 Certainly! Here's a Markdown-formatted chapter on "Implementing Machine Learning-Powered Behavior Modification Strategies for Positive Habit Formation" for the book "Building Resilience with AI Techniques and Strategies to Develop Resilience with Artificial Intelligence."
 
-Chapter 6: Implementing Machine Learning-Powered Behavior Modification Strategies for Positive Habit Formation
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how machine learning (ML) can be leveraged to foster positive habit formation and enhance resilience by providing personalized strategies and insights.
 
